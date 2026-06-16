@@ -8,3 +8,4 @@
 <br>
 
 <img src="https://github.com/grigolets/Meu-Primeiro-Desafio-Pessoal-CSS/blob/master/img/foto%20do%20desafio.png?raw=true">
+<h3> Projeto desenvolvido a partir do curso de CSS do <a href="https://www.devclub.com.br/">DevClub</a></h3>
